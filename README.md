@@ -2,6 +2,10 @@
 
 <br />
 
+The goal of this project is to identify potential biomarkers of pancreatic cancer using a multi-omics approach. 
+
+<br />
+
 Step 1: Download RNA-seq samples from normal and tumor tissues of pancreatic cancer patients and protein expression data from tumor tissues of pancreatic cancer patients from The Cancer Genome Atlas
 
 <br />
