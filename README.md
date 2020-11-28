@@ -22,7 +22,7 @@ Step 4: Calculate fold changes for each transcript in tumor and normal RNA-seq s
 
 <br />
 
-Step 6: Calculate Z-scores for each protein 
+Step 6: Calculate Z-scores for each protein in tumor samples
 
 <br />
 
